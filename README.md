@@ -7,5 +7,5 @@ Processing includes the following:
 -rejecting edges that are too small in diameter  
 -rejecting edges that form closed loops  
 -removing very stubby terminal segments (which may be artifacts of image segmentation)  
--combining segments to reach a target length lthresh (must be set within the code)  
+-combining segments to reach a target length lthresh (also specified in AnalyzeAmiraFileList.dat)  
 TWS, June 2017
