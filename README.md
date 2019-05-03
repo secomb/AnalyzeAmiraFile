@@ -7,5 +7,5 @@ Processing includes the following:
 -rejecting edges that form closed loops  
 -removing very stubby terminal segments (which may be artifacts of image segmentation)  
 -combining segments to reach a target length lthresh (must be set within the code)  
-This version has the option to loop through a set of image stacks 
+This version has the option to loop through a set of image stacks   
 TWS, June 2017
